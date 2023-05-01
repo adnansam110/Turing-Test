@@ -15,7 +15,7 @@ export const apiCall = async (
     const response = await axios({
       method: method,
       url: `${baseUrl}${endpoint}`,
-      ...(!body && {
+      ...(body && {
         data: body,
       }),
       headers
