@@ -39,3 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Loom Video Link
 https://www.loom.com/share/e713036acbf54a21a4f297efd042c122
+
+## Deployed URL
+https://turing-test-chi.vercel.app/
